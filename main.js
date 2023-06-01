@@ -11,7 +11,7 @@ document.getElementById("displayMenu").innerHTML = htmldata
 //Completar o código
 }
 
-function addItem(){
+function addItem()
 var htmldata;
 var imgtags='<img id="im1" src="images/pizzaImg.png"/>'
 var item=document.getElementById("addItem").value;
